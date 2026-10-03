@@ -55,7 +55,6 @@ I'm a developer who enjoys learning by building. I like creating applications, e
 |---|---|
 | 🇹🇷 Turkish | Native |
 | 🇬🇧 English | A2 → B1 / improving |
-| 🇮🇹 Italian | Beginner / A1 |
 
 ---
 
@@ -80,11 +79,11 @@ I'm a developer who enjoys learning by building. I like creating applications, e
 </a>
 
 <!-- Add your social links here when you are ready:
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/ielifgul/">
   <img src="https://img.shields.io/badge/LinkedIn-D98FAF?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="YOUR_INSTAGRAM_URL">
+<a href="[YOUR_INSTAGRAM_URL](https://www.instagram.com/iremelfgl/)">
   <img src="https://img.shields.io/badge/Instagram-6B8F71?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 -->
