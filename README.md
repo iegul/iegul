@@ -5,15 +5,23 @@
 
 <div align="center">
 
-# 🌷 Hi, I'm İrem Elif GÜL! 🌿
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D98FAF&height=180&section=header&text=Hi,%20I'm%20İrem%20Elif!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-### ✨ Developer • Learner • Dreamer ✨
+### 🌿 Developer • Learner • Dreamer 🌸
 
-*building little things, learning new things, and turning ideas into projects* ♡
+*learning, creating, and growing one little project at a time* ♡
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-iegul-6b4f5b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iegul)
+<a href="https://github.com/iegul">
+  <img src="https://img.shields.io/badge/GitHub-6B8F71?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/ielifgul/">
+  <img src="https://img.shields.io/badge/LinkedIn-D98FAF?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/iremelfgl/">
+  <img src="https://img.shields.io/badge/Instagram-6B8F71?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 </div>
 
@@ -23,20 +31,18 @@
 
 Hi! I'm **İrem Elif** 👋
 
-I'm a developer who enjoys learning by building. I like creating applications, experimenting with new technologies, and turning ideas into something people can actually use.
+I'm a developer who enjoys learning by building. I like creating applications, exploring new technologies, and turning ideas into something useful and creative.
 
-🌱 Currently learning and improving my development skills  
-💡 Interested in **app development, game development and AI-powered projects**  
-🌍 I love languages, different cultures, travelling and discovering new ideas  
-☕ Always learning something new
+🌱 Always learning and improving  
+💻 Interested in **app development, game development & AI**  
+🌍 I love languages, different cultures and travelling  
+☕ Curious about new ideas and technologies
 
 > 🌿 *Small steps, cute projects, big dreams.*
 
 ---
 
 ## 🌷 My Tech Garden
-
-### 💻 Languages & Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-6B8F71?style=for-the-badge&logo=dart&logoColor=white" />
@@ -49,24 +55,28 @@ I'm a developer who enjoys learning by building. I like creating applications, e
   <img src="https://img.shields.io/badge/Git-D98FAF?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### 🌎 Human Languages
+---
 
-| Language | Level |
-|---|---|
-| 🇹🇷 Turkish | Native |
-| 🇬🇧 English | A2 → B1 / improving |
+## 🌎 Languages
+
+<p align="center">
+
+🇹🇷 **Turkish — Native**  
+🇬🇧 **English — A2 → B1 / improving**
+
+</p>
 
 ---
 
 ## 🎀 Things I Love
 
-🌸 Creating apps  
-🎮 Designing game worlds  
-🏕️ Camping & van travel  
-✈️ Discovering different countries and cultures  
+🌸 Creating apps & learning new technologies  
+🎮 Games & creative digital projects  
+🏕️ Camping and van travel  
+✈️ Discovering countries and cultures  
 🍜 Trying food from different places  
 📹 Dreaming about future travel vlogs  
-🤖 Exploring AI and automation
+🤖 Exploring AI & automation
 
 ---
 
@@ -77,25 +87,23 @@ I'm a developer who enjoys learning by building. I like creating applications, e
 <a href="https://github.com/iegul">
   <img src="https://img.shields.io/badge/GitHub-6B8F71?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/in/ielifgul/">
   <img src="https://img.shields.io/badge/LinkedIn-D98FAF?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-<a href="[YOUR_INSTAGRAM_URL](https://www.instagram.com/iremelfgl/)">
+<a href="https://www.instagram.com/iremelfgl/">
   <img src="https://img.shields.io/badge/Instagram-6B8F71?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </p>
 
----
-
 <div align="center">
 
-### 🌷 Thanks for visiting my little corner of GitHub! 🌷
-
-**made with ♡, curiosity & a little bit of green**
-
 🌸 ─────────────── 🌿 ─────────────── 🌸
+
+### ♡ Thanks for visiting my little corner of GitHub! ♡
+
+*made with curiosity, creativity & a little bit of green*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6B8F71&height=100&section=footer" width="100%"/>
 
 </div>
