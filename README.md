@@ -78,7 +78,6 @@ I'm a developer who enjoys learning by building. I like creating applications, e
   <img src="https://img.shields.io/badge/GitHub-6B8F71?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<!-- Add your social links here when you are ready:
 <a href="https://www.linkedin.com/in/ielifgul/">
   <img src="https://img.shields.io/badge/LinkedIn-D98FAF?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -86,7 +85,6 @@ I'm a developer who enjoys learning by building. I like creating applications, e
 <a href="[YOUR_INSTAGRAM_URL](https://www.instagram.com/iremelfgl/)">
   <img src="https://img.shields.io/badge/Instagram-6B8F71?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
--->
 
 </p>
 
