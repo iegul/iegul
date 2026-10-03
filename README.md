@@ -26,29 +26,11 @@ Hi! I'm **İrem Elif** 👋
 I'm a developer who enjoys learning by building. I like creating applications, experimenting with new technologies, and turning ideas into something people can actually use.
 
 🌱 Currently learning and improving my development skills  
-🎮 Building a strategy game with **Flutter & Dart**  
 💡 Interested in **app development, game development and AI-powered projects**  
 🌍 I love languages, different cultures, travelling and discovering new ideas  
 ☕ Always learning something new
 
 > 🌿 *Small steps, cute projects, big dreams.*
-
----
-
-## 🧸 What I'm Working On
-
-### 👑 Seven Crowns — Strategy Game
-
-I'm currently developing a medieval strategy game where players can:
-
-- 🏰 Build and upgrade their kingdom
-- ⚔️ Manage armies and generals
-- 🤝 Build diplomatic relationships with other kingdoms
-- 💰 Manage resources and economy
-- 🕵️ Use special characters such as spies and advisors
-- 📖 Experience a world with its own stories and relationships
-
-**Tech:** Flutter • Dart • AI-assisted development
 
 ---
 
